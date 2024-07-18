@@ -80,6 +80,8 @@ public class ArrayArraylist {
 	{
 		System.out.println(school.get(s));}
 	
+	
+	
      }
 	}
 
